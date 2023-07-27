@@ -1,0 +1,17 @@
+.trace-spans{
+    background-color: #333;
+    border: 1px solid gray;
+    width: 700px;
+    display: inline-block;
+    align-items: center;
+    justify-content: center;
+    margin: auto;
+}
+
+
+
+.span-section{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
